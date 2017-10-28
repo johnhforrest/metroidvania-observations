@@ -7,6 +7,7 @@ Observations of my favorite metroidvania games (in no particular order)
 - Guacamelee!
 - Dust: An Elysian Tail
 - Shovel Knight (not metroidvania but still inspirational)
+- Hyper Light Drifter (not metroidvania but still inspirational)
 
 ## Inventory/menus
 ### Hollow Knight
@@ -68,3 +69,6 @@ XNA
 
 ### Shovel Knight
 Custom
+
+### Hyper Light Drifter
+GameMaker Studio
