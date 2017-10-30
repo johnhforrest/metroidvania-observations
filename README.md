@@ -8,6 +8,7 @@ Observations of my favorite metroidvania games (in no particular order)
 - Dust: An Elysian Tail
 - Shovel Knight (not metroidvania but still inspirational)
 - Hyper Light Drifter (not metroidvania but still inspirational)
+- SteamWorld Dig
 
 ## Inventory/menus
 ### Hollow Knight
@@ -50,6 +51,7 @@ Observations of my favorite metroidvania games (in no particular order)
 - Dust follows the character when walking and also when jumping. Dynamic direction (i.e., it briefly curves mid-air)
 - Slower movement speed in town
 - Lots of environment to interact with (i.e., breakables, detritus). Impressive amount of objects that can be cut with the weapon
+- Press up to interact with environment (e.g., talk with NPC, enter a building)
 
 ## Engine
 ### Hollow Knight
@@ -72,3 +74,6 @@ Custom
 
 ### Hyper Light Drifter
 GameMaker Studio
+
+### SteamWorld Dig
+Custom
